@@ -1,8 +1,8 @@
 {
   "expo": {
-    "owner": "omarshah0",
+    "owner": "omarshah0s-organization",
     "name": "Trading Signals",
-    "slug": "forex-crypto-psx-signals",
+    "slug": "trading-signals",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -54,7 +54,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "your-project-id"
+        "projectId": "e814421d-fa1a-433e-9cce-063900482e07"
       }
     }
   }
